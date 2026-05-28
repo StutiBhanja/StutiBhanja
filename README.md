@@ -1,52 +1,48 @@
 # Hi there, I'm Stuti Bhanja 👋
 
-🎯 Aspiring Data Analyst & Data Science Enthusiast
-📍 Hyderabad, India
-📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+🎯 **Data Analyst** | Python • SQL • Power BI • EDA
+📍 Hyderabad, India • 📧 stutibhanja3@gmail.com • [LinkedIn](https://www.linkedin.com/in/stutibhanja)
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-| Category              | Tools & Technologies                    |
-| --------------------- | --------------------------------------- |
-| Programming Languages | Python, SQL                             |
-| Data Analysis         | Pandas, NumPy, Matplotlib, Seaborn, EDA |
-| Visualization         | Power BI, DAX, Microsoft Excel          |
-| Database              | MySQL, Joins, Stored Procedures         |
-| Machine Learning      | Scikit-learn                            |
-| Web Scraping          | BeautifulSoup, Requests                 |
-| Tools                 | Jupyter Notebook, Git, VS Code          |
-
----
-
-# 🌱 Currently Exploring
-
-* Building end-to-end Data Analytics projects
-* Learning Machine Learning & Statistics
-* Practicing SQL & Python problem solving
-* Creating Power BI dashboards
-* Exploring real-world datasets
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Languages** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, EDA |
+| **Visualization** | Power BI, DAX, Microsoft Excel |
+| **Database** | MySQL, Joins, Stored Procedures |
+| **Web Scraping** | BeautifulSoup, Requests |
+| **Tools** | Jupyter Notebook, Git, VS Code |
+| **Currently Learning** | Machine Learning, Scikit-learn |
 
 ---
 
-# 📂 Featured Projects
+## 🌱 What I'm Up To
 
-| Project                                        | Tools                 | Description                                     |
-| ---------------------------------------------- | --------------------- | ----------------------------------------------- |
-| [Blinkit Sales Analysis](https://github.com/StutiBhanja/Blinkit-Sales-Analysis) | Power BI, DAX, Excel | Interactive dashboard for sales KPIs & insights |)     | Power BI, DAX, Excel  | Interactive dashboard for sales KPIs & insights |
-| [Employee Management System](YOUR_GITHUB_LINK) | MySQL, SQL            | Database design with SQL queries                |
-| [Car Price Analysis](YOUR_GITHUB_LINK)         | Python, Pandas, EDA   | Data cleaning & exploratory analysis            |
-| [BikeWale Price Scraper](YOUR_GITHUB_LINK)     | Python, BeautifulSoup | Real-time data scraping project                 |
-
----
-
-# 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=dark)](https://git.io/streak-stats)
-
+- 🔭 **Working on:** Building end-to-end data projects for my portfolio
+- 📚 **Learning:** Machine Learning — Supervised Learning, Scikit-learn, Statistics for ML
+- 🚀 **Goal:** Transitioning from Data Analyst → Data Scientist
+- 💬 **Ask me about:** Python, SQL, Power BI, EDA
+- 🤝 **Open to:** Collaborating on Data Analysis & ML projects
 
 ---
 
-⚡ “Learning never exhausts the mind.”
+## 📂 Featured Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Blinkit Sales Analysis](https://github.com/StutiBhanja/Blinkit-Sales-Analysis) | Power BI, DAX, Excel | Interactive dashboard for sales KPIs |
+| [Employee Management System](#) | MySQL, SQL | Normalized DB with 20+ SQL queries |
+| [Car Price Analysis](#) | Python, Pandas, EDA | Price predictor with correlation analysis |
+| [BikeWale Price Scraper](#) | BeautifulSoup, Python | Real-time bike data scraping & EDA |
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=StutiBhanja&theme=dark)](https://git.io/streak-stats)
+---
+
+⚡ *"Learning never exhausts the mind." — Let's connect and grow together!*
