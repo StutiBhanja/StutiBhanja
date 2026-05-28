@@ -1,48 +1,51 @@
 # Hi there, I'm Stuti Bhanja 👋
 
-🎯 **Data Analyst** | Python • SQL • Power BI • EDA
-📍 Hyderabad, India • 📧 stutibhanja3@gmail.com • [LinkedIn](https://www.linkedin.com/in/stutibhanja)
+🎯 Aspiring Data Analyst & Data Science Enthusiast
+📍 Hyderabad, India
+📧 [stutibhanja3@gmail.com](mailto:stutibhanja3@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/stutibhanja
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Tools & Technologies |
-|----------|----------------------|
-| **Languages** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn, EDA |
-| **Visualization** | Power BI, DAX, Microsoft Excel |
-| **Database** | MySQL, Joins, Stored Procedures |
-| **Web Scraping** | BeautifulSoup, Requests |
-| **Tools** | Jupyter Notebook, Git, VS Code |
-| **Currently Learning** | Machine Learning, Scikit-learn |
+| Category              | Tools & Technologies                    |
+| --------------------- | --------------------------------------- |
+| Programming Languages | Python, SQL                             |
+| Data Analysis         | Pandas, NumPy, Matplotlib, Seaborn, EDA |
+| Visualization         | Power BI, DAX, Microsoft Excel          |
+| Database              | MySQL, Joins, Stored Procedures         |
+| Web Scraping          | BeautifulSoup, Requests                 |
+| Tools                 | Jupyter Notebook, Git, VS Code          |
+| Currently Learning    | Machine Learning, Scikit-learn          |
 
 ---
 
-## 🌱 What I'm Up To
+## 🌱 Currently Exploring
 
-- 🔭 **Working on:** Building end-to-end data projects for my portfolio
-- 📚 **Learning:** Machine Learning — Supervised Learning, Scikit-learn, Statistics for ML
-- 🚀 **Goal:** Transitioning from Data Analyst → Data Scientist
-- 💬 **Ask me about:** Python, SQL, Power BI, EDA
-- 🤝 **Open to:** Collaborating on Data Analysis & ML projects
+* Building end-to-end Data Analytics & Machine Learning projects
+* Learning Machine Learning, Statistics & Scikit-learn
+* Transitioning from Data Analyst → Data Scientist
+* Interested in Python, SQL, Power BI & EDA
+* Open to collaboration on Data Analytics projects
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [Blinkit Sales Analysis](https://github.com/StutiBhanja/Blinkit-Sales-Analysis) | Power BI, DAX, Excel | Interactive dashboard for sales KPIs |
-| [Employee Management System](#) | MySQL, SQL | Normalized DB with 20+ SQL queries |
-| [Car Price Analysis](#) | Python, Pandas, EDA | Price predictor with correlation analysis |
-| [BikeWale Price Scraper](#) | BeautifulSoup, Python | Real-time bike data scraping & EDA |
+| Project                                                                         | Tools                 | Description                                               |
+| ------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------- |
+| [Blinkit Sales Analysis](https://github.com/StutiBhanja/Blinkit-Sales-Analysis) | Power BI, DAX, Excel  | Interactive sales dashboard with KPIs & business insights |
+| Employee Management System                                                      | MySQL, SQL            | Database normalization and SQL query analysis             |
+| Car Price Analysis                                                              | Python, Pandas, EDA   | Exploratory data analysis and pricing insights            |
+| BikeWale Price Scraper                                                          | BeautifulSoup, Python | Real-time bike data scraping and analysis                 |
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StutiBhanja&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=StutiBhanja\&theme=dark)](https://git.io/streak-stats)
+
 ---
 
-⚡ *"Learning never exhausts the mind." — Let's connect and grow together!*
+⚡ “Learning never exhausts the mind.”
