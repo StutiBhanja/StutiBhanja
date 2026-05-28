@@ -42,8 +42,11 @@
 
 ## 📊 GitHub Stats
 
-![Stuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=StutiBhanja&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StutiBhanja&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StutiBhanja&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StutiBhanja&layout=compact&theme=dark" />
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=StutiBhanja&theme=dark)](https://git.io/streak-stats)
 ---
 
