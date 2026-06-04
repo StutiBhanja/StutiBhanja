@@ -36,7 +36,7 @@
 | [Blinkit Sales Analysis](https://github.com/StutiBhanja/Blinkit-Sales-Analysis) | Power BI, DAX, Excel | Interactive dashboard for sales KPIs |
 | [Employee Management System](https://github.com/StutiBhanja/Employee-management-system) | MySQL, SQL | Normalized DB with 20+ SQL queries |
 | [Car Price Analysis](https://github.com/StutiBhanja/car-price-analysis) | Python, Pandas, EDA | Price predictor with correlation analysis |
-| [BikeWale Price Scraper](#) | BeautifulSoup, Python | Real-time bike data scraping & EDA |
+| [BikeWale Price Scraper](https://github.com/StutiBhanja/BikeWale-EDA-Project) | BeautifulSoup, Python | Real-time bike data scraping & EDA |
 
 ---
 
