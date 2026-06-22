@@ -15,8 +15,7 @@
 | **Database** | MySQL, Joins, Stored Procedures |
 | **Web Scraping** | BeautifulSoup, Requests |
 | **Tools** | Jupyter Notebook, Git, VS Code |
-| **Currently Learning** | Machine Learning, Scikit-learn |
-
+Machine Learning | KNN, Scikit-learn, Model Deployment (Streamlit)
 ---
 
 ## 🌱 What I'm Up To
