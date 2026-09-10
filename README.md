@@ -1,6 +1,6 @@
 # Hi there, I'm Stuti Bhanja 👋
 
-🎯 **Data Analyst** | Python • SQL • Power BI • EDA
+🎯 **Aspiring Data Scientist** | Python • SQL • Power BI • EDA •ML
 📍 Hyderabad, India • 📧 stutibhanja3@gmail.com • [LinkedIn](https://www.linkedin.com/in/stutibhanja)
 
 ---
